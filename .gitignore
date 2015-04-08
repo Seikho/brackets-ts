@@ -1,0 +1,12 @@
+*.dat
+tsd.json
+*.map
+node_modules/
+*.*~
+*.swp
+bin/
+obj/
+*.suo
+*.sln
+.tscache/
+
