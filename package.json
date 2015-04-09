@@ -4,7 +4,8 @@
   "description": "Typescript for Brackets",
   "main": "src/index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
